@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png",半岛英语
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="港澳台",「HK」翡翠台
@@ -13,6 +13,10 @@ https://stream1.freetv.fun/zhong-tian-xin-wen-tai-2-1.m3u8
 https://stream1.freetv.fun/86c4bbf39b7ba14b8f7929428df4d9a5e150a79aeb6556a6f758524334e04a66.m3u8
 #EXTINF:-1 group-title="港澳台",「HK」中天新闻
 https://stream1.freetv.fun/zhong-tian-xin-wen-8.m3u8
+#EXTINF:-1 ,「HK」中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
+#EXTINF:-1 ,「HK」中天新闻
+https://stream1.freetv.fun/d5a6ec037d2c4635d144520d0ddf989faeb6a5f8d5d85e3c5a5c07d2ca2d79b3.m3u8
 #EXTINF:-1 group-title="港澳台",「HK」翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="港澳台",「HK」J2
