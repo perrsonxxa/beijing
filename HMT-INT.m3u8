@@ -3,20 +3,50 @@
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="港澳台",「HK」翡翠台
 http://r.jdshipin.com/qClQf
-#EXTINF:-1 group-title="港澳台",「HK」中天新闻
+#EXTINF:-1 group-title="港澳台",中天新闻
 http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 group-title="港澳台",「HK」中天新闻
-https://stream1.freetv.fun/4c8e6b3157fb284596bc1c4e59bc9d2536a4570785dd96194a44a8d175a156bb.m3u8
-#EXTINF:-1 group-title="港澳台",「HK」中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-tai-2-1.m3u8
-#EXTINF:-1 group-title="港澳台",「HK」中天新闻
-https://stream1.freetv.fun/86c4bbf39b7ba14b8f7929428df4d9a5e150a79aeb6556a6f758524334e04a66.m3u8
-#EXTINF:-1 group-title="港澳台",「HK」中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-8.m3u8
-#EXTINF:-1 ,「HK」中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
-#EXTINF:-1 ,「HK」中天新闻
-https://stream1.freetv.fun/d5a6ec037d2c4635d144520d0ddf989faeb6a5f8d5d85e3c5a5c07d2ca2d79b3.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://51.89.166.17:3002/index.php?id=ctinews
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://cnlive.org/channel/41d8a09d/index.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+https://k44991.kylintv.tv/live/cti_iphone.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://205.185.120.57:8081/channel/n3ee59a96/index.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+#EXTINF:-1 group-title="港澳台",中天新闻
+https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://liveplay.wesingapp.com/live/ogVoQHdZXPmfdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://205.185.120.57:8081/channel/n7c70b121/index.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://122.117.71.103:8661/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+#EXTINF:-1 group-title="港澳台",中天新闻
+https://ali.hlspull.yximgs.com/live/167_ztxw.flv
+#EXTINF:-1 group-title="港澳台",中天新闻
+https://ali.hlspull.yximgs.com/live/167ztxw2.flv
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://198.16.100.186:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11595587&tsum=f845b0cbd60e0079a44e92a3efcf69ad
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://ali.hlspull.yximgs.com/live/_duan_ju_bao_bao_bao_xiao_shi_hou_zuo_guo_ya___CTI__HD.flv
 #EXTINF:-1 group-title="港澳台",「HK」翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="港澳台",「HK」J2
