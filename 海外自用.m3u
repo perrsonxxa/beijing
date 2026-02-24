@@ -1,15 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="🏛海外新闻",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="🏛海外新闻",CNN
-https://stream1.freetv.fun/76ede5b07535ec7d2f681cd8cca8a15ff4a8c2b64796fb7919f44114147e4ee8.ctv
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="🏛海外新闻",CNN
-https://stream1.freetv.fun/cnn-international-6.ctv
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="🏛海外新闻",CNN
-https://stream1.freetv.fun/8aefe91bfc9b8c517b25ffc2073af2235db2478beeb6c4ac85ae8a729d214640.ctv
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="🏛海外新闻",CNN
-https://stream1.freetv.fun/cnn-indonesia--id-1.ctv
 #EXTINF:-1 group-title="🌊港·澳·台",中天新闻 http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="🌊港·澳·台",TVB翡翠台
 http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
@@ -26,26 +17,15 @@ http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsq
 #EXTINF:-1 tvg-id="xg15" tvg-logo="https://ghproxy.zhi35.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC1.png" tvg-name="东森综合" group-title="🌊港·澳·台",东森综合 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
 #EXTINF:-1 tvg-id="xg16" tvg-logo="https://ghproxy.zhi35.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png" tvg-name="寰宇新闻" group-title="🌊港·澳·台",寰宇新闻 http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="🏛海外新闻",BBC News https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="🏛海外新闻",CNN https://stream1.freetv.fun/3a5dcb16f12c8b8b369f7712cf274bbbd54688c9abb62dc6a9e4d042c87041d9.ctv
-#EXTINF:-1 group-title="🏛海外新闻",CNN https://stream1.freetv.fun/cnn--m-1.ctv
-#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="🏛海外新闻",BBC News  https://stream1.freetv.fun/222874539b8c821783a37d4d9619e8bce3235f344696995dcc358e53f6e64ddf.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.postimg.cc/SN6HBmR1/bbcnews.png" group-title="🏛海外新闻",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.postimg.cc/SN6HBmR1/bbcnews.png" group-title="🏛海外新闻",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="🏛海外新闻",BBC News  https://stream1.freetv.fun/bbc-news-9.ctv
 #EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="🏛海外新闻",BBC News https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="🏛海外新闻",BBC News 
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
-#EXTINF:-1  group-title="🏛海外新闻",BBC World News https://stream1.freetv.fun/2be2726dc405e7261b782f1b4dacda892aa2c261446044c158f78dacd9d8ff2f.ctv
-#EXTINF:-1  group-title="🏛海外新闻",BBC World News https://stream1.freetv.fun/bbc-world-news-9.ctv
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="🏛海外新闻",BBC World News https://stream1.freetv.fun/b437f1bcd99daac48eedbacd5debecbd1927bb2d4fbf75b945e5ba5dbf956954.ctv
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="🏛海外新闻",BBC World News https://stream1.freetv.fun/bbc-world-news--m-1.ctv
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="🏛海外新闻",BBC World News https://stream1.freetv.fun/9dc90eb8da14499cdd37a1c61883e6821f3370161b5823db5f96b331a3133984.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="🏛海外新闻",BBC World News https://stream1.freetv.fun/bbc-world-news-4.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="🏛海外新闻",I24 News English (720p)
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png" group-title="🏛海外新闻" http-referrer="https://odysee.com/",Press TV https://stream1.freetv.fun/df15a5bba8ae04dcd6915f106ed9500263bd2f9952d6098f7193f1e2b6a1dd76.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png" group-title="🏛海外新闻",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png" group-title="🏛海外新闻",Press TV
@@ -56,14 +36,11 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8
 https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png" group-title="🏛海外新闻",Press TV
 https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png" group-title="🏛海外新闻" http-referrer="https://odysee.com/",Press TV https://stream1.freetv.fun/iran-press-1.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png" group-title="🏛海外新闻" http-referrer="https://odysee.com/",Press TV
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="🏛海外新闻",Al Jazeera English (1080p)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="🏛海外新闻",Al Jazeera English (1080p) https://stream1.freetv.fun/b7e066dc739a6c9b34df5e4b0910cf72a11bb3d64acfab8c1a7953609385e1a3.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="🏛海外新闻",Al Jazeera English (1080p) https://stream1.freetv.fun/ch-ng-al-jazeera-english-1.m3u8
 #EXTINF:-1 tvg-id="AmericasVoice.us@SD" tvg-logo="" group-title="🏛海外新闻",America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 tvg-id="AmericasVoiceNews.us@SD" tvg-logo="https://i.imgur.com/C4w0eYC.png" group-title="🏛海外新闻",America's Voice News
@@ -176,4 +153,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/2017/lg/b98891/LG-Logo-PNG-100x100_v1.png" group-title="🏛海外新闻",Talk https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1979/lg/653921/LG-Logo-PNG-100x100_v1.png" group-title="🏛海外新闻",talkSPORT https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="🏛海外新闻",NFL Channel https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1313&wurl_name=NFLChannel&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
 #EXTINF:-1 group-title="🏛海外新闻",MLB Network https://jmp2.uk/stvp-US1400001WV
