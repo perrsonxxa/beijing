@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",4Afghanistan
+https://4afghls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Music",4Music
+https://itthls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",AFN TV (720p) [Not 24/7]
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Family",AVA Family (720p) [Not 24/7]
+https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Undefined",AVA Series (720p)
+https://avaserieshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Abadan
+https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Abadan
+https://ncdn.telewebion.com/abadan/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Aflak
+https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Afra Series
+https://afrashls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Aftab
+https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Aftab
+https://ncdn.telewebion.com/aftab/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Aio Eshareh [Geo-blocked]
+https://live.aionet.ir/hls/eshareh/eshareh.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Aio Mes Rafsanjan [Geo-blocked]
+https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport",Aio Sport 1 [Geo-blocked]
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport",Aio Sport 2 [Geo-blocked]
+https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Religious;Undefined",Al Wilayah (1080p)
+https://hls.nl3.livekadeh.com/hls2/alwilayah_tv.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Al Wilayah (720p) [Not 24/7]
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",AlAlam
+https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",AlKawthar
+https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Alborz
+https://ncdn.telewebion.com/alborz/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Amouzesh
+https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Amouzesh
+https://ncdn.telewebion.com/amouzesh/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/201px-Amouzesh_TV_logo_%282023%29.svg.png" group-title="General",Amouzesh TV
+http://dvrfl05.bozztv.com/gin-iribamoozesh/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Ara
+https://ncdn.telewebion.com/ara/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Arvan
+https://arvhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Arvan
+https://me2hls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Asil TV (720p)
+https://live.asil.tv/asiltv/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Assirat TV (576p)
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Atrak
+https://ncdn.telewebion.com/atrak/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Atrina TV
+https://atrihls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/aHdixeT.png" group-title="Undefined",Ayeneh TV
+https://live20.bozztv.com/dvrfl05/gin-ayeneh/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Azerbaijan Gharbi
+https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Azerbaijan Gharbi
+https://ncdn.telewebion.com/azarbayjangharbi/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Baran
+https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Baran
+https://ncdn.telewebion.com/baran/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Bravo Farsi TV (360p)
+https://bravoohls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Bushehr
+https://ncdn.telewebion.com/bushehr/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Cafe Trade TV (720p)
+https://cafetradehls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/qegiypT.png" group-title="Music",Caltex Music (720p)
+https://video.caltexmusic.com/hls/caltextv.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Classic TV
+https://scbhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.postimg.cc/0NnRMtn9/classic-tv.jpg" group-title="Classic;Undefined",Classic TV
+https://clshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Datis TV
+https://dathls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Datis TV
+https://ronhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Dena
+https://ncdn.telewebion.com/dena/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Digi Movie [Not 24/7]
+https://fastdehost.com/live/digimovie.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.postimg.cc/1RBJmjGM/EPlanet-TV.png" group-title="Documentary;Undefined",EPlanet TV
+https://eplhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png" group-title="Movies",Ekran Movies
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Energy
+https://ncdn.telewebion.com/baenergy/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Erfan Halgheh TV (720p)
+https://hls.erfanhalgheh.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Eshragh
+https://ncdn.telewebion.com/eshragh/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",FX TV (720p)
+https://fxtvhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",FX2 Farsi
+https://toonixhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Fars
+https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Fars
+https://ncdn.telewebion.com/fars/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/8LgdPst.png" group-title="Music",GEM 24B (1080p)
+http://66.102.120.18:8000/play/a044/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/2XASeBk.png" group-title="Movies",GEM Bollywood
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gembollywood/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/25BhuOf.png" group-title="Classic",GEM Classic
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemclassic/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/FuscfJW.png" group-title="Comedy",GEM Comedy
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemcomedy/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/k2pGyRH.png" group-title="Movies",GEM Drama
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemdrama/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_7.png" group-title="Movies",GEM Drama Plus
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/nrFz3LU.png" group-title="Movies",GEM Film
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemfilm/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7FQxaII.png" group-title="Sports",GEM Fit
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/SMtSinK.png" group-title="Undefined",GEM Food
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemfood/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/jK8yzj2.png" group-title="Kids",GEM Junior
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemjunior/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/ArkjaFk.png" group-title="Kids",GEM Kids
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemkids/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/gI8qePa.png" group-title="Lifestyle",GEM Life
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemlife/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/qlI7o7V.png" group-title="Music",GEM Mifa
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/8FIAqR5.png" group-title="Music",GEM Mifa Plus
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/ENvOMDQ.png" group-title="Documentary",GEM Nature
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemnature/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/gXRIAw4.png" group-title="Movies",GEM Onyx
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemonyx/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png" group-title="Movies",GEM Pixel
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/yJ6f1B6.png" group-title="Entertainment",GEM River
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemriver/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_29.png" group-title="Entertainment",GEM River Plus
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemriverplus/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/cDjOj58.png" group-title="Movies",GEM Rubix
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubix/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_31.png" group-title="Movies",GEM Rubix Plus
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/M0WMDXm.png" group-title="Undefined",GEM Series
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemseries/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" group-title="Undefined",GEM Series Plus
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_17.png" group-title="Movies",GEM TV + (1080p)
+http://66.102.120.18:8000/play/a045/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GLV
+https://38b3095.online-server.cloud/hls/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Golkhane TV
+https://ncdn.telewebion.com/golkhane/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Habib
+https://ncdn.telewebion.com/habib/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Hamedan
+https://ncdn.telewebion.com/sina/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Hamoon
+https://ncdn.telewebion.com/hamoon/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="Music",High Vision (1080p) [Not 24/7]
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Hispan TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/l8XMKTT.png" group-title="Kids",HodHod Farsi TV
+https://live20.bozztv.com/gin-trn09/gp-hodhodtv/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png" group-title="General",IRIB 1
+https://live20.bozztv.com/dvrfl05/gin-irib1/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png" group-title="General",IRIB 2
+https://live20.bozztv.com/dvrfl05/gin-irib2/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png" group-title="Sports",IRIB 3
+https://live20.bozztv.com/dvrfl05/gin-irib3/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png" group-title="Culture",IRIB 4
+https://live20.bozztv.com/dvrfl05/gin-irib4/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" group-title="General",IRIB Mostanad
+https://live20.bozztv.com/dvrfl05/gin-iribmostanad/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/320px-IRIB_FARATAR_UHD.png" group-title="General",IRIB UHD (2160p)
+https://ncdn.telewebion.com/faratar/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB1
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8?checkedby:iptvcat.net
