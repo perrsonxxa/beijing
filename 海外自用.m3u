@@ -57,10 +57,6 @@ https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="🏛海外新闻",Euronews English (720p)
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="🏛海外新闻" http-referrer="https://www.newslive.com/" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",Fox News Channel (720p)
-#EXTVLCOPT:http-referrer=https://www.newslive.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 group-title="🏛海外新闻",BBC News https://jmp2.uk/stvp-US4000033L
 #EXTINF:-1 group-title="🏛海外新闻",CNN https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 group-title="🏛海外新闻",CNA https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -155,3 +151,4 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="🏛海外新闻",NFL Channel https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1313&wurl_name=NFLChannel&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 #EXTINF:-1 group-title="🏛海外新闻",MLB Network https://jmp2.uk/stvp-US1400001WV
+
