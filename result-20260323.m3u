@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="http://192.168.1.17:8000/epg/epg.gz"
+﻿#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml,https://gh-proxy.org/raw.githubusercontent.com/perrsonxxa/iptv-api/refs/heads/master/output/epg/epg.xml,https://gh-proxy.org/raw.githubusercontent.com/perrsonxxa/iptv-api/refs/heads/master/output/epg/epg.gz,https://epg.pw/xmltv/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="﻿📺央视频道",CCTV-1
 rtp://228.1.1.28:8008
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="﻿📺央视频道",CCTV-1
