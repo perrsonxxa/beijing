@@ -206,7 +206,7 @@ CHC动作电影,http://iptv.19840608.xyz:16666/rtp/239.69.1.242:11094
 魅力时尚,rtp://228.1.1.86:9012
 
 港澳台海外,#genre#
-中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
+中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv009
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
